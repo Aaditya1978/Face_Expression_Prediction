@@ -79,7 +79,7 @@ Finally we call the last function which calls the above videocamera class and sh
 
 The output when a video is given to it is given below :- 
 
-![Model Output Prediction](https://github.com/Aaditya1978/Face_Expression_Prediction/blob/main/Images/Facial-Expression-Recognization.mp4)
+![Model Output Prediction](https://github.com/Aaditya1978/Face_Expression_Prediction/blob/main/Images/Facial-Expression-Recognization.gif)
 
 
 # If you like my work and gained knowledge. Please do follow me and Please star ⭐ my Repo 😉😉.
