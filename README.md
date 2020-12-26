@@ -6,6 +6,7 @@ Firstly Tensorflow is used to train the model. For training and testing purpose 
 
 After that we created a **CNN** Model with firstl three convolutional layers after that a flatten layerand after that two fully connected layer. Finally the model was compiled.
 The visual model architecture looks like as given below :-
+
 ![Model architecture](https://github.com/Aaditya1978/Face_Expression_Prediction/blob/main/Images/model.png?raw=true)
 
 The model training was started. It was ran for 15 epochs and got an accuracy of nearly 68%.
@@ -76,6 +77,9 @@ class VideoCamera(object):
 ```
 Finally we call the last function which calls the above videocamera class and shows the video with prediction till the key **q** is pressed.
 
+The output when a video is given to it is given below :- 
+
+![Model Output Prediction](https://github.com/Aaditya1978/Face_Expression_Prediction/blob/main/Images/Facial-Expression-Recognization.mp4)
 
 
 # If you like my work and gained knowledge. Please do follow me and Please star ⭐ my Repo 😉😉.
